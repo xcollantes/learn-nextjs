@@ -1,0 +1,27 @@
+{
+  "name": "learn-nextjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xcollantes/learn-nextjs.git"
+  },
+  "author": "Xavier Collantes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xcollantes/learn-nextjs/issues"
+  },
+  "homepage": "https://github.com/xcollantes/learn-nextjs#readme",
+  "dependencies": {
+    "next": "^9.3.6",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
