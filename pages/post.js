@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Link from 'next/link'
-import Layout from '../../comps/layout'
-import style from './layout.module.css'
+import Layout from '../comps/layout'
+import style from '../comps/layout.module.css'
 
 export default function BlogPost () {
   return (
@@ -16,4 +16,6 @@ export default function BlogPost () {
 
 
     </Layout>
+
+  )
 }
